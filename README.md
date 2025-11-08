@@ -34,6 +34,4 @@ I enjoy creating projects with React, TypeScript, Node.js, and MongoDB.
 ## 📈 GitHub Stats
 ![Yordanos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordi217&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YordanosSisay)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YordanosSisay)
+## 🔗 Connect with Me:
