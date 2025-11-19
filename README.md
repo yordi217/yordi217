@@ -31,7 +31,6 @@ I enjoy creating projects with React, TypeScript, Node.js, and MongoDB.
 ## 📫 How to Reach Me
 - Email: yordiyyo012@gmail.com
 - LinkedIn: [Yordanos Sisay](https://www.linkedin.com/in/YordanosSisay)
-- Portfolio: [Your Portfolio Website](https://your-portfolio.com)
 
 ## 📈 GitHub Stats
 ![Yordanos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordi217&show_icons=true&theme=radical)
