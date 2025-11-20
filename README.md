@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate Full-Stack Developer who loves building amazing web applications.  
-I enjoy creating projects with React, TypeScript, Node.js, and MongoDB.
+I enjoy creating projects with React, TypeScript, Django, and PostgreSQL.
 
 ## 💻 Tech Stack
 
@@ -15,10 +15,13 @@ I enjoy creating projects with React, TypeScript, Node.js, and MongoDB.
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### Backend:
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
 ### Databases:
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
@@ -31,8 +34,4 @@ I enjoy creating projects with React, TypeScript, Node.js, and MongoDB.
 ## 📫 How to Reach Me
 - Email: yordiyyo012@gmail.com
 - LinkedIn: [Yordanos Sisay](https://www.linkedin.com/in/YordanosSisay)
-
-## 📈 GitHub Stats
-![Yordanos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordi217&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
